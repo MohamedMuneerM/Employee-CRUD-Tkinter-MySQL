@@ -1,0 +1,1 @@
+An Employee Management App built using Python and Tkinter, providing a user-friendly interface for adding, updating, and deleting employees, displaying employee information in a table, dynamically updating employee count, and allowing users to view employee profiles by double-clicking on the row item.
